@@ -10,9 +10,8 @@ marquee{
 	font-size: 30px;
 }
 h1{
-	text-align: center;
 	padding-top: 100px;
 }
-h2{
+h1,h2{
 	text-align: center;
 }
